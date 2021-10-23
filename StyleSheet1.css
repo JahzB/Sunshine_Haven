@@ -1,0 +1,216 @@
+
+body {
+  background-color: #E3E8E9;
+  font-weight: Book Antiqua;
+      margin: 0px;
+}
+
+h1 {
+  font-size: 40px;
+  color: #6666CC;
+  font-family: cursive;
+}
+
+.contact-title {
+  color: black;
+  font-family: serif;
+}
+
+
+iframe {
+  margin-left: 70px;
+  margin-bottom: 100px;
+}
+
+
+p {
+  font-size: 20px;
+}
+.info {
+  margin-right: 40px;
+}
+.Info {
+  margin-right: 40px;
+  padding-top:  40px;
+}
+
+
+.two{
+  font-family: Lucida Bright;
+  padding-right: 340px;
+}
+
+.navbar {
+    background-color: #F4B9B8;
+    padding: 1.4em;
+    border-bottom: 1px solid black;
+}
+
+.nav-item {
+  margin-left: 1em;
+  margin-right: 1em;
+  font-family: Lucida Bright;
+    background-color: #FBE5C8;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+.three{
+  background-color: #FAE8E0;
+  margin: 5px;
+  margin-top: 0em;
+  font-family: Lucida Bright;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+input, search-field {
+  border-radius: 5px;
+  padding: 10px;
+  padding-right: 10px;
+}
+
+.four{
+  margin: 0px;
+  margin-top: 0px;
+}
+
+.five{
+  background-color: #B6E2D3;
+}
+
+
+.column-2-left {
+  width: 440px;
+  background-color: #e0ddcd;
+  padding: 20px;
+  border: 5px solid #938d6d;
+  float:left;
+  margin-left: 90px;
+  margin-right: 30px;
+ }
+
+/* second column */
+
+ .column-3-right {
+  width: 400px;
+  background-color: #e0ddcd;
+  padding: 20px;
+  border: 5px solid #938d6d;
+  float: right;
+  margin-left: 30px;
+  margin-right: 90px;
+}
+
+.r {
+  width: 350px;
+  padding: 20px;
+  border: 5px solid #274472;
+  float:left;
+  margin-left: 20px;
+  margin-right: 10px;
+  background-color: #F6EEE0;
+    margin-top: 60px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+
+}
+
+.reference {
+  width: 350px;
+  padding: 20px;
+  border: 5px solid #274472;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #F6EEE0;
+    margin-bottom: 130px;
+    margin-top: 30px;
+}
+
+.mission {
+  width: 350px;
+  padding: 20px;
+  border: 5px solid #274472;
+  float:left;
+  margin-left: 20px;
+  margin-right: 10px;
+  background-color: #F6EEE0;
+    margin-bottom: 130px;
+}
+
+.why {
+  width: 350px;
+  padding: 20px;
+  border: 5px solid #274472;
+  float: right;
+  margin-left: 10px;
+  margin-right: 20px;
+  background-color: #F6EEE0;
+    margin-bottom: 130px;
+}
+
+.what {
+  width: 350px;
+  padding: 20px;
+  border: 5px solid #274472;
+  float: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #F6EEE0;
+  margin-bottom: 130px;
+  }
+
+
+textarea {
+  width: 250px;
+  border-radius: 5px;
+  padding: 10px;
+  padding-right:
+  margin-bottom: 20px;
+  font-size: 15px
+}
+
+.Donation {
+  padding: 10px;
+  width: 400px;
+  padding: 20px;
+  margin-left: 500px;
+  margin-right: 300px;
+}
+
+.submit {
+  background-color: #B6E2D3;
+  color: black;
+  font-size: 20px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+
+.page1 {
+  background-color:  #e0ddcd;
+  padding: 20px;
+  border: 5px solid #BC8880;
+  padding-left: 80px;
+}
+.page2 {
+  background-color: #F6EEE0;
+  padding: 20px;
+  border: 5px solid #B1D8B7;
+  padding-left: 80px;
+}
+
+
+.footer {
+  text-align: center;
+  bottom: 0;
+  height: 7em;
+  border-top: 2px solid #F4B9B8;
+  border-bottom: 2px solid #F4B9B8;
+  background-color: #B6E2D3;
+  padding: 1.4em;
+  font-size: 15px;
+
+}
